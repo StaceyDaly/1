@@ -9,7 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block![EbfZ4-census-voting-data](https://user-images.githubusercontent.com/98707461/151909990-8c004a03-803a-4769-93e0-8535f61a2010.png)
+
 
 # Header 1
 ## Header 2
