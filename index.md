@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](![EbfZ4-census-voting-data- (1)](https://user-images.githubusercontent.com/98707461/151907535-ebb837e0-f939-4c2a-8686-32ad66c2f1a6.png))
+[Link](url) and (![EbfZ4-census-voting-data- (1)](https://user-images.githubusercontent.com/98707461/151907535-ebb837e0-f939-4c2a-8686-32ad66c2f1a6.png))
 
 ```
 
